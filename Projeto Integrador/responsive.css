@@ -1,0 +1,24 @@
+@media screen and (max-width: 768px) {
+    #hero {
+        width: 100%;
+    }
+    #hero h2 {
+        font-size: 40px;
+    }
+    .projeto {
+        width: 45%;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    #hero {
+        width: 90%;
+        margin-top: 50px;
+    }
+    #hero h2 {
+        font-size: 40px;
+    }
+    .projeto {
+        width: 100%;
+    }
+}
